@@ -1,11 +1,8 @@
 # project1
 
-laravel backend: - composer create-project laravel/laravel backend - cd backend
-composer install
-php artisan key:generate
-php artisan migrate
-php artisan serve
+@xampp
+start Apache
+start mySQL
 
-for python dependencies:
-
-pip install flask flask_sqlalchemy flask_jwt_extended flask_cors mediapipe flask_mysql mysqlclient
+@terminal backend/
+laravel backend: - 1. composer install 2. php artisan key:generate 3. php artisan migrate 4. php artisan serve
