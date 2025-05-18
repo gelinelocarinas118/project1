@@ -19,6 +19,7 @@ return new class extends Migration
             $table->boolean('is_model_ready')->default(false);   // .obj ready
             $table->boolean('is_failed')->default(false);        // any failure
             $table->string('message')->nullable();               // optional error or info
+            $table->unsignedSmallInteger('height_cm')->nullable(); // record height
             $table->timestamps();
         });
     }

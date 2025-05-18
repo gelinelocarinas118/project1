@@ -21,8 +21,11 @@ use Illuminate\Support\Facades\Route;
 Route::post('login', [ApiLoginController::class, 'login']);
 Route::post('register', [ApiRegisterController::class, 'register']);
 
-Route::post('upload',[UploadController::class, 'storeMultiple']);
+Route::post('upload',[UploadController::class, 'storeZip']);
 Route::post('photogrammetry/callback', [CallbackController::class, 'reconstructionDone']);
+
+//test
+Route::post('/upload-zip', [UploadController::class, 'storeZip']);
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();

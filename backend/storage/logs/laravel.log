@@ -1079,3 +1079,259 @@
 [stacktrace]
 #0 {main}
 "} 
+[2025-05-11 05:57:22] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 06:02:52] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 06:14:47] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 06:22:42] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 06:40:23] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 06:46:18] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 06:54:07] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 07:15:24] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 08:34:07] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 08:48:36] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 08:55:54] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 09:00:36] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 09:08:16] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 14:03:52] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 14:11:07] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 14:34:30] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 14:55:19] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 15:20:58] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 15:27:02] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-11 15:48:30] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-16 14:41:08] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-16 14:55:52] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-16 15:04:54] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-16 15:12:58] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-16 15:17:11] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-16 15:32:32] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-16 15:35:59] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-16 15:46:08] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-16 16:01:39] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 01:55:12] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 01:55:40] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 01:56:21] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:00:05] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:05:25] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:05:55] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:06:09] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:06:21] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:06:28] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:14:18] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:33:41] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:37:04] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:38:42] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:45:38] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:52:32] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 02:55:00] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 03:16:02] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 03:58:51] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 06:09:38] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 06:24:46] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 06:25:59] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 06:31:07] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 06:43:27] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 06:48:34] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 06:54:18] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 06:58:25] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 07:01:01] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 07:04:52] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 07:09:58] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 07:13:48] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-17 07:18:36] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-18 01:16:42] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-18 01:32:40] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-18 02:15:29] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
+[2025-05-18 03:14:04] local.ERROR: Cannot declare class App\Http\Controllers\file\CallbackController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\file\\CallbackController, because the name is already in use at C:\\Users\\family\\Desktop\\sides\\project1\\backend\\app\\Http\\Controllers\\Api\\File\\CallbackController.php:9)
+[stacktrace]
+#0 {main}
+"} 
